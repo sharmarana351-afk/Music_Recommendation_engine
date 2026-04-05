@@ -1,0 +1,40 @@
+# Core Data Processing
+
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+
+scikit-learn==1.5.1
+scipy==1.13.1
+
+# Fast Similarity Search (ANN)
+
+faiss-cpu==1.8.0
+
+# Optional: Deep Learning (for future upgrades)
+
+torch==2.3.1
+
+# API (choose one)
+
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# OR if using Flask instead of FastAPI
+
+# flask==3.0.3
+
+# Data Visualization (optional but useful)
+
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Utilities
+
+joblib==1.4.2
+tqdm==4.66.4
+
+# Environment Management
+
+python-dotenv==1.0.1
